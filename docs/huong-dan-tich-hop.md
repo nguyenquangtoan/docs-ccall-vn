@@ -20,7 +20,7 @@ Ngoài việc sử dụng thư viện [JSSIP](http://jssip.net/) để lập tr�
 
 ### **Cấu trúc submit request\_data \(JSON Encoded\):**
 
-![](.gitbook/assets/api-submission.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-submission.png)
 
 #### **Mô tả fields**
 
@@ -50,11 +50,11 @@ limit: **50** \(số dòng cho một trang\)
 
 #### Không phân trang
 
-![](.gitbook/assets/api-nonpage.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-nonpage.png)
 
 #### Có phân trang
 
-![](.gitbook/assets/api-paging.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-paging.png)
 
 
 
@@ -108,11 +108,11 @@ limit: **50** \(số dòng cho một trang\)
 
 ### **Cấu trúc submit request\_data \(JSON Encoded\):**
 
-![](.gitbook/assets/api-callid.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-callid.png)
 
 ### **Cấu trúc response data \(JSON Encoded\):**
 
-![](.gitbook/assets/api-callid-re1.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-callid-re1.png)
 
 ## **3. Lấy danh sách Extension đang Registered \(Online\):** 
 
@@ -120,7 +120,7 @@ limit: **50** \(số dòng cho một trang\)
 
 ### **Cấu trúc submit request\_data \(JSON Encoded\):**
 
-![](.gitbook/assets/api-ext.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-ext.png)
 
 #### **Mô tả fields**
 
@@ -128,7 +128,7 @@ limit: **50** \(số dòng cho một trang\)
 
 ### **Cấu trúc response data \(JSON Encoded\):**
 
-![](.gitbook/assets/api-ext-online.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/api-ext-online.png)
 
 **Mô tả**
 
