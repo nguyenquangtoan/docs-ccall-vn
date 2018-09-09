@@ -1,7 +1,9 @@
-site_name: Sách Mềm 
-site_description:  Hướng dẫn sử dụng Sách Mềm
+site_name: Tổng đài CCALL Cloud Doanh nghiệp
+site_description: Hướng dẫn sử dụng, Quản trị và Phát triển
 theme: readthedocs
 pages:
-    - 'Mục lục': 'index.md'
-#    - 'Người dùng': 'user-guide.md'
-#    - 'Giới thiệu': 'about.md'
+    - 'Hướng dẫn sử dụng CCALL Softphone': 'index.md'
+    - 'Hướng dẫn lắp đặt điện thoại Fanvil': 'huong-dan-lap-dat-dien-thoai-fanvil.md'
+    - 'Hướng dẫn cấu hình điện thoại Fanvil': 'huong-dan-cau-hinh-dien-thoai-fanvil.md'
+    - 'Hướng dẫn tích hợp lấy CDR, ghi âm, máy nhánh online': 'huong-dan-tich-hop.md'
+
