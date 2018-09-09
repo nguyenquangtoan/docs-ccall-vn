@@ -1,8 +1,7 @@
-site_name: CCALL DOCS
-site_description: CCALL Cloud
+site_name: Sách Mềm 
+site_description:  Hướng dẫn sử dụng Sách Mềm
 theme: readthedocs
 pages:
-    - 'Hướng dẫn sử dụng CCALL Softphone': 'huong-dan-su-dung-ccall-softphone.md'
-    - 'Hướng dẫn lắp đặt điện thoại Fanvil': 'huong-dan-lap-dat-dien-thoai-fanvil.md'
-    - 'Hướng dẫn cấu hình điện thoại Fanvil': 'huong-dan-cau-hinh-dien-thoai-fanvil.md'
-    - 'Hướng dẫn tích hợp lấy CDR': 'huong-dan-tich-hop.md'
+    - 'Mục lục': 'index.md'
+#    - 'Người dùng': 'user-guide.md'
+#    - 'Giới thiệu': 'about.md'
