@@ -2,19 +2,19 @@
 
 Để lắp đặt thiết bị điện thoại IP Phone bạn tham khảo [Hướng dẫn lắp đặt điện thoại Fanvil](https://docs.ccall.vn/huong-dan-lap-dat-dien-thoai-fanvil), sau khi hoàn thành việc lắp đặt bạn cần khai báo thông tin cấu hình cho thiết bị. Nhấn **OK** 2 lần để có địa chỉ IP của thiết bị. Ví dụ như trong hình: **2** **IP: 10.0.0.104**
 
-![](.gitbook/assets/12.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/12.png)
 
 Trong trường hợp mục **2 IP: Negotiating** bạn cần kiểm tra lại dây mạng kết nối với điện thoại, modem, switch, . . . hoặc thiết bị cấp DHCP của hệ thống mạng LAN.
 
-![](.gitbook/assets/20180815_181029.jpg)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/20180815_181029.jpg)
 
 Sử dụng máy tính kết nối cùng mạng LAN với thiết bị điện thoại IP Phone, bật trình duyệt web và truy cập vào trang cấu hình của điện thoại IP Phone thông qua địa chỉ IP của thiết bị đó. Trong trường hợp này IP của thiết bị là **10.0.0.104,** đăng nhập với thông tin **User / Password: admin / admin.**
 
-![](.gitbook/assets/screen-shot-2018-08-15-at-18.07.35.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/screen-shot-2018-08-15-at-18.07.35.png)
 
 Bấm vào tab **Line** bên trái ****được khoanh tròn như hình để tiếp tục cấu hình cho thiết bị.
 
-![](.gitbook/assets/screen-shot-2018-08-15-at-18.07.47.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/screen-shot-2018-08-15-at-18.07.47.png)
 
 Bạn cần khai báo các thông tin như hình để có thể hoàn thành đăng ký máy nhánh nội bộ cho thiết bị điện thoại IP Phone:
 
@@ -33,7 +33,7 @@ Sau đó nhấn **Apply** để lưu lại cấu hình.
 
 `Lưu ý: Thông tin cấu hình được gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
 
-![](.gitbook/assets/screen-shot-2018-08-15-at-18.08.00.png)
+![](https://raw.githubusercontent.com/nguyenquangtoan/docs-ccall-vn/master/.gitbook/assets/screen-shot-2018-08-15-at-18.08.00.png)
 
 **Line Status: Registered** báo đăng ký thành công
 
